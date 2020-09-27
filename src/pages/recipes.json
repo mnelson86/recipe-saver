@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "Lemon Chicken",
+      "favorite": false,
+      "recipe": [
+        {
+          "name": "lemon juice",
+          "amount": "2 oz"
+        },
+        {
+          "name": "potatoes",
+          "amount": "3 potatoes"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Chicken Parmigianna",
+      "favorite": false,
+      "recipe": [
+        {
+          "name": "breadcrumbs",
+          "amount": "2 cups"
+        },
+        {
+          "name": "marinara sauce",
+          "amount": "2 cups"
+        },
+        {
+          "name": "pasta",
+          "amount": "2 cups"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chicken Alfredo",
+      "favorite": false,
+      "recipe": [
+        {
+          "name": "pasta",
+          "amount": "2 cups"
+        },
+        {
+          "name": "alfredo sauce",
+          "amount": "1 cup"
+        },
+        {
+          "name": "pesto",
+          "amount": "14 cups"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Chicken Soup",
+      "favorite": false,
+      "recipe": [
+        {
+          "name": "broth",
+          "amount": "3 cups"
+        },
+        {
+          "name": "rice",
+          "amount": "1/2 cup"
+        },
+        {
+          "name": "veggies",
+          "amount": "1 cup"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Buffalo Chicken",
+      "favorite": false,
+      "recipe": [
+        {
+          "name": "buffalo sauce",
+          "amount": "1 cup"
+        },
+        {
+          "name": "cajun spices",
+          "amount": "some"
+        },
+        {
+          "name": "breadcrumbs",
+          "amount": "1 cup"
+        }
+      ]
+    }
+    ]
